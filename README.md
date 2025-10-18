@@ -87,3 +87,4 @@ Hello everyone!
 
 
 OUTPUT
+<img width="1777" height="547" alt="Image" src="https://github.com/user-attachments/assets/fd173365-5628-4f72-bd17-cf9fdb18797f" />
